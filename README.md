@@ -34,12 +34,7 @@ I created three main packages: Model, View and Controller, segregating the view 
 Custom View using Android 2D graphics packagages to implement the GameBoard View.
 
 
-###Screenshots/UI
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.53.05%20PM.png)
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.54.26%20PM.png)
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.54.44%20PM.png)
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.55.05%20PM.png)
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.59.15%20PM.png)
-![alt tag](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/Screen%20Shot%202017-02-26%20at%2012.59.30%20PM.png)
+###Sample GamePlay
+![Alt Text](https://github.com/nilamdeka23/GameOfLife/blob/master/Screenshots/GameOfLife.gif)
 #####I tried to follow the Material Design guidelines in the available time.
 
