@@ -9,8 +9,8 @@ One interacts with the Game of Life by creating an initial configuration and obs
 
 
 ###How does this game differ?
-It is not a zero-player game, as the player has more than the freedom than creating an intial configuration as the player may interact with
-the game board using touch/tap on any evolution stages and effect the outcome of the next subsequent evolution.
+It is not a zero-player game, as the player has more than the freedom of creating an intial configuration as the player may choose to interact with
+the game board using touch/tap on any evolution stage and thus affect the outcome of the next subsequent evolution.
 
 
 ###What are the evolution rules?
@@ -21,11 +21,11 @@ the game board using touch/tap on any evolution stages and effect the outcome of
 
 
 ###How to play this game?
-1. The player is presented with a grid of 14 by 14 cells.
-2. Player can touch/tap on each cell to render them live or dead.
-3. Player then can click "Next" button to generate the next evolution for the input cell population.
+1. The player is presented with a grid of 14 by 14 rectangular cells.
+2. Player can touch/tap on each cell to render them live(solid red circle) or dead(empty cell).
+3. Player can click "Next" button to generate the next evolution for the input cell population.
 4. Subsequently, player can modify the next generation or continue clicking next to generate higher degrees of evolution.
-5. The player can click on "Reset" button anytime to clear GameBoard to reset the game.
+5. The player can click on the "Reset" button anytime to clear GameBoard to reset the game.
 
 
 ###Implementation Details
