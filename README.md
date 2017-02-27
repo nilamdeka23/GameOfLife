@@ -29,7 +29,8 @@ the game board using touch/tap on any evolution stage and thus affect the outcom
 
 
 ###Implementation Details
-To maintain a good quality and maintainibility of code, I have used the classical MVC Android Achitecture
+To maintain a good quality and maintainibility of code, I have used the classical MVC Android Achitecture.
+
 I created three main packages: Model, View and Controller, segregating the view and game logic and keeping the controller("The glue") lean.
 Custom View using Android 2D graphics packagages to implement the GameBoard View.
 
