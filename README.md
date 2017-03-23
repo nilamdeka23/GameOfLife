@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 a native Android Game inspired by "The Game of Life".
 ###### One can download a working signed apk of this app from [here](https://github.com/nilamdeka23/GameOfLife/blob/master/app/app-release.apk?raw=true)
 
