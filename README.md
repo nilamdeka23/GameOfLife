@@ -1,4 +1,4 @@
-# Game Of Life
+# Game of Life
 A native Android Game inspired by "The Game of Life".
 ###### One can download a working signed apk of this app from [here](https://github.com/nilamdeka23/GameOfLife/blob/master/app/app-release.apk?raw=true)
 
@@ -8,15 +8,14 @@ The "game" originally is a zero-player game, meaning that its evolution is deter
 One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 
 
-### How does this game differ?
-It is not a zero-player game, as the player has more than the freedom of creating an intial configuration as the player may choose to interact with
-the game board using touch/tap on any evolution stage and thus affect the outcome of the next subsequent evolution.
+### How does this version of the game differ?
+It is not a zero-player game, as the player has more than the freedom of creating an intial configuration as the player may choose to interact with the game board using touch/tap on any evolution stage and thus affect the outcome of the next subsequent evolution.
 
 
 ### What are the evolution rules?
-1. Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
-2. Any live cell with two or three live neighbours lives on to the next generation.
-3. Any live cell with more than three live neighbours dies, as if by overpopulation.
+1. Any live cell with fewer than two live neighbours die, as if caused by underpopulation.
+2. Any live cell with two or three live neighbours live on to see the next generation.
+3. Any live cell with more than three live neighbours die, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 
@@ -29,10 +28,10 @@ the game board using touch/tap on any evolution stage and thus affect the outcom
 
 
 ### Implementation Details
-To maintain a good quality and maintainibility of code, I have used the classical MVC Android Achitecture.
+To maintain a good quality and maintainibility of code, I have used the classic MVC Android Achitecture.
 
-I created three main packages: Model, View and Controller, segregating the view and game logic and keeping the controller("The glue") lean.
-Custom View using Android 2D graphics packagages to implement the GameBoard View.
+I created three main packages: Model, View and Controller, segregating the view and game logic, keeping the controller("the glue") lean.
+Custom View uses Android 2D graphics packagages to implement the GameBoard View.
 
 
 ### Sample GamePlay
